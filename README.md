@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshantech. I attend Purdue University - Fort Wayne, and I work for Cardio Diagnostics as an intern.
 - 👀 I’m interested in a variety of things. Looking to expand my general knowledge in many different areas. Currently, I am developing a digital health app for iOS. 
-- 🌱 I’m learning about application development. 
+- 🌱 I’m currently learning about software and application development. 
 - 💞️ I’m looking to collaborate on website/app development to gain knowledge. 
 - 📫 I prefer to be reached through email. Joshantech@gmail.com.
 
