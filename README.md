@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joshantech. I attend Purdue University for a Bachelor's in Computer Science.
-- 👀 I’m interested in a variety of things, but full-stack development is what I am working on in my free time. 
+- 👋 Hi, I’m @joshantech. I attend Purdue University pursuing a Bachelor's in Computer Science.
+- 👀 I’m open to any projects, though full-stack development is a forte. 
 - 📫 I prefer to be reached through email. Joshantech@gmail.com.
 
 <!---
