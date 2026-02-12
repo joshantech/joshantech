@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joshantech. Lead developer at Elemta.
-- 👀 I’m open to any projects, though full-stack development is a forte. 
-- 📫 I prefer to be reached through email. Joshan@elemta.com.
+- 👀 For any project inquiries, please reach out at joshan@elemta.com, or https://elemta.com. 
 
 <!---
 joshantech/joshantech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
